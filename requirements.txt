@@ -1,0 +1,7 @@
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+ortools==9.15.6755
+streamlit==1.65.0
+altair==6.3.0
+pytest==9.1.1
