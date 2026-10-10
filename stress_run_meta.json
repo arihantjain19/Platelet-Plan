@@ -1,0 +1,31 @@
+{
+  "status_quo_share": 1.0,
+  "tuned": {
+    "ma7": {
+      "horizon": 2,
+      "z": 1.75
+    },
+    "lasso": {
+      "horizon": 3,
+      "z": 0.75
+    },
+    "network": {
+      "horizon": 3,
+      "z": 1.0
+    }
+  },
+  "status_quo_tune_year": {
+    "units_prepared": 17883,
+    "units_expired": 7870,
+    "expiry_rate": 0.44008276016328357,
+    "units_demanded": 10003,
+    "units_short": 21,
+    "shortage_rate": 0.002099370188943317,
+    "units_transferred": 0
+  },
+  "shortage_weight": 10,
+  "outbreak_scale": 2.0,
+  "peak_shift_weeks": 3,
+  "shock_from_year": 2025,
+  "seed": 7
+}

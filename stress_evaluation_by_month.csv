@@ -1,0 +1,49 @@
+policy,month,prepared,expired,demand,shortage
+Status quo (fixed share of donations),2025-01,1510,792,753,0
+Status quo (fixed share of donations),2025-02,1437,788,610,0
+Status quo (fixed share of donations),2025-03,1555,819,713,0
+Status quo (fixed share of donations),2025-04,1495,781,768,0
+Status quo (fixed share of donations),2025-05,1538,799,714,0
+Status quo (fixed share of donations),2025-06,1481,764,724,0
+Status quo (fixed share of donations),2025-07,1536,633,932,0
+Status quo (fixed share of donations),2025-08,1610,478,1119,0
+Status quo (fixed share of donations),2025-09,1475,161,1332,22
+Status quo (fixed share of donations),2025-10,1456,232,1183,0
+Status quo (fixed share of donations),2025-11,1432,592,867,0
+Status quo (fixed share of donations),2025-12,1491,682,825,0
+7-day average baseline,2025-01,788,24,753,0
+7-day average baseline,2025-02,642,48,610,0
+7-day average baseline,2025-03,763,47,713,4
+7-day average baseline,2025-04,794,40,768,8
+7-day average baseline,2025-05,801,78,714,0
+7-day average baseline,2025-06,736,32,724,0
+7-day average baseline,2025-07,979,41,932,7
+7-day average baseline,2025-08,1110,18,1119,18
+7-day average baseline,2025-09,1341,9,1332,37
+7-day average baseline,2025-10,1168,12,1183,19
+7-day average baseline,2025-11,882,22,867,12
+7-day average baseline,2025-12,856,33,825,2
+PlateletPlan (LASSO forecast),2025-01,766,28,753,0
+PlateletPlan (LASSO forecast),2025-02,647,39,610,0
+PlateletPlan (LASSO forecast),2025-03,765,45,713,3
+PlateletPlan (LASSO forecast),2025-04,779,25,768,9
+PlateletPlan (LASSO forecast),2025-05,797,79,714,0
+PlateletPlan (LASSO forecast),2025-06,744,31,724,0
+PlateletPlan (LASSO forecast),2025-07,981,42,932,6
+PlateletPlan (LASSO forecast),2025-08,1131,17,1119,16
+PlateletPlan (LASSO forecast),2025-09,1348,13,1332,31
+PlateletPlan (LASSO forecast),2025-10,1177,16,1183,2
+PlateletPlan (LASSO forecast),2025-11,873,27,867,11
+PlateletPlan (LASSO forecast),2025-12,846,26,825,2
+PlateletPlan + transfers,2025-01,764,25,753,0
+PlateletPlan + transfers,2025-02,662,56,610,0
+PlateletPlan + transfers,2025-03,776,53,713,1
+PlateletPlan + transfers,2025-04,785,29,768,6
+PlateletPlan + transfers,2025-05,808,90,714,0
+PlateletPlan + transfers,2025-06,759,45,724,0
+PlateletPlan + transfers,2025-07,989,45,932,2
+PlateletPlan + transfers,2025-08,1139,15,1119,5
+PlateletPlan + transfers,2025-09,1349,14,1332,31
+PlateletPlan + transfers,2025-10,1178,15,1183,0
+PlateletPlan + transfers,2025-11,882,34,867,10
+PlateletPlan + transfers,2025-12,860,38,825,1

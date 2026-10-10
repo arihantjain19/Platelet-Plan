@@ -1,0 +1,5 @@
+policy,horizon,z,units_prepared,units_expired,expiry_rate,units_demanded,units_short,shortage_rate,units_transferred
+Status quo (fixed share of donations),,,18016,7521,0.41746225577264656,10540,22,0.0020872865275142313,0
+7-day average baseline,2.0,1.75,10860,404,0.03720073664825046,10540,107,0.010151802656546489,0
+PlateletPlan (LASSO forecast),3.0,0.75,10854,388,0.035747189976045694,10540,80,0.007590132827324478,0
+PlateletPlan + transfers,3.0,1.0,10951,459,0.04191398045840562,10540,56,0.005313092979127135,159
